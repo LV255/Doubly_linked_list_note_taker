@@ -1,4 +1,4 @@
-## Project Name: Doubly linked list note take
+## Project Name: Doubly Linked List Note Taker
 The user can input information that is then stored in a doubly linked list. User can cycle through and view notes or delete notes.
 
 ## Motivation
